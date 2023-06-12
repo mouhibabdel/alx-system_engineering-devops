@@ -1,2 +1,2 @@
 #!/bin/bash
-haed /ect/passwd -n 10
+head /ect/passwd -n 10
